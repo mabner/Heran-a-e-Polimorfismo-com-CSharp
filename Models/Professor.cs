@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace Herança_e_Polimorfismo_com_CSharp.Models
 {
-    public class Aluno : Pessoa
+    public class Professor : Pessoa
     {
-        public double Nota { get; set; }
+        public decimal Salario { get; set; }
     }
 }
