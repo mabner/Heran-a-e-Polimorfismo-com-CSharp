@@ -6,4 +6,10 @@ a1.Idade = 36;
 a1.Nota = 94;
 a1.Apresentar();
 
+Professor p1 = new Professor();
+p1.Nome = "Felipe";
+p1.Idade = 44;
+p1.Salario = 4000;
+p1.Apresentar();
+
 
